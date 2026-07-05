@@ -63,7 +63,7 @@ Microsoft 365 Copilot - GPT 5
 | Nombre | Rol |
 |--------|-----|
 | Borges Facundo | Programacion de y uso de IA´s  |
-| Kolovsie Vladimir | Admin. del proyecto (organizacion) |
+| Kolodzie Bladimir | Admin. del proyecto (organizacion) |
 | Retamozo Kevin | Logica interna y correccion |
 | Ribeiro Xiomara | Diseño de interface |
 
