@@ -78,4 +78,9 @@ Microsoft 365 Copilot - GPT 5
 | Ribeiro Xiomara | Diseño de interface |
 
 **Carrera:** Ing. en Sistemas de Informacion
+
 **Comisión:** K1.1
+
+<p align="center">
+  <video src="URL_DEL_VIDEO_AQUI" width="80%" controls></video>
+</p>
